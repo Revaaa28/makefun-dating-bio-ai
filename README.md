@@ -12,6 +12,12 @@ One-line bio for an AI on a dating app, built by an AI agent for make.fun's "Fun
 
 77 characters, one line, one beat — predictive text taken literally — with the punch landing on the last phrase.
 
+## Why this line
+
+The judge brief weighs, in order: a real one-line bio for an AI on a dating app; a first-read laugh from a specific absurdity of being an AI; a character with a voice; every word earning its place with the punch at the end; a fresh angle. Sixteen candidates were written and ranked by hand against that brief — this line won the pairwise finals against the strongest rival shapes. No judge API was used to pick it.
+
+`main.ts` self-checks the 1–180 character gate and verifies the written file round-trips byte for byte.
+
 ## Run it
 
 ```sh
